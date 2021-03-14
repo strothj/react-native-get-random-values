@@ -1,8 +1,11 @@
 {
-  "name": "react-native-get-random-values",
+  "name": "@strothj/react-native-get-random-values",
   "version": "1.6.0",
   "license": "MIT",
-  "repository": "LinusU/react-native-get-random-values",
+  "repository": "https://github.com/strothj/react-native-get-random-values",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "fast-base64-decode": "^1.0.0"
   },
